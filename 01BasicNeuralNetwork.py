@@ -1,4 +1,4 @@
-# This code is for learning purposes
+# This code is for learning purposes 
 # It's a complete code to learn Keras at beginner level
 # This code is learned from the following tutorial
 # https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/
