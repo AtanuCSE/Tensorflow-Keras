@@ -1,25 +1,6 @@
 # Tensorflow-Keras-ANN
 Learning Tensorflow, Keras, Deep Learning, Machine Learning
 
-King County Housing Dataset Details (Kaggle)
-id
-date
-price
-bedrooms
-bathrooms
-sqft_living
-sqft_lot
-floors
-waterfront
-view
-condition
-grade
-sqft_above
-sqft_basement
-yr_built
-yr_renovated
-zipcode
-lat
-long
-sqft_living15
-sqft_lot15
+This code is learned from the following tutorial
+# https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/
+# It's been coded in PyCharm with the help of Anaconda
