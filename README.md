@@ -6,10 +6,17 @@ This code is learned from the following tutorial
 # It's been coded in PyCharm with the help of Anaconda
 
 Data Exploration
+
 Data Visualization
+
 Feature Engineering
+
 Data Pre-processing
+
 Neural Network Design
+
 Prediction
+
 Error Visualization
+
 Countering model overfitting
